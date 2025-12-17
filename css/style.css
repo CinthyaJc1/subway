@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f8ff;   /* light blue */
+}
+
+header {
+    color: #2d572c;              /* dark green text */
+}
+
+ul {
+    font-weight: bold;
+}
+
+p {
+    color: #333333;
+}
+
+h1 {
+    color: #b22222;              /* dark red */
+}
+
+footer {
+    font-size: 16px;
+}
